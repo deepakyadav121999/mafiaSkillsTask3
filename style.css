@@ -7,10 +7,10 @@
 .container {
     margin-left: 25vw;
     margin-right: 25vw;
-  margin-top: 10vh;
+    margin-top: 10vh;
     margin-bottom: 10vh;
     align-items: center;
-    padding: 20px;
+    padding: 2vw;
     width: 50vw; 
     height: 50vh; 
     text-align: center;
@@ -20,19 +20,20 @@ img {
     width: 50vw;
     height: auto;
     display: block;
-    margin: 0 auto;
+    margin: 0vw auto;
 }
 
 button {
     background: linear-gradient(to right, #cbe729 0%, #45a049 100%);
     border: 0.1px solid rgb(46, 46, 46);
     color: white;
-    padding: 15px;
+    padding: 1vw;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 13px;
+  font-size: 1.2vw;
     cursor: pointer;
     width: 50vw; 
+    height: 7vh;
  
 }
